@@ -1,0 +1,6 @@
+{
+  "name": "KaushalSetu AI — Skill-to-Job Recommendation Platform for Rural Youth",
+  "description": "Bridge Your Skills to Your Future. AI-driven skill assessment, skill-gap analysis, and verified job & internship recommendations for Indian rural youth and college freshers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
